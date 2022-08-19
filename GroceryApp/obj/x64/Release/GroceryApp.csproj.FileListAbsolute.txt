@@ -1,0 +1,11 @@
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\bin\x64\Release\GroceryApp.exe.config
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\bin\x64\Release\GroceryApp.exe.manifest
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\bin\x64\Release\GroceryApp.application
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\bin\x64\Release\GroceryApp.exe
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\bin\x64\Release\GroceryApp.pdb
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\obj\x64\Release\GroceryApp.csproj.AssemblyReference.cache
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\obj\x64\Release\GroceryApp.csproj.CoreCompileInputs.cache
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\obj\x64\Release\GroceryApp.exe.manifest
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\obj\x64\Release\GroceryApp.application
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\obj\x64\Release\GroceryApp.exe
+C:\Users\mindedge185\Desktop\MS6\GroceryApp\obj\x64\Release\GroceryApp.pdb
